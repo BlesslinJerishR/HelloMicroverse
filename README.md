@@ -56,16 +56,13 @@ After you're finished please remove all the comments and instructions!
 
 > Hello Microverse Project from Module 1 of Microverse Full-stack development program.
 
-
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> HTML 
+> HTML
 >
->CSS
-
-
+> CSS
 
 <!-- AUTHORS -->
 
@@ -73,14 +70,11 @@ After you're finished please remove all the comments and instructions!
 
 - GitHub: [@BlesslinJerishR](https://github.com/BlesslinJerishR)
 
-
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project leave a star.
-
-
 
 <!-- ACKNOWLEDGEMENTS -->
 
