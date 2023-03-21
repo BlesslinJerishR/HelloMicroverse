@@ -45,6 +45,7 @@ After you're finished please remove all the comments and instructions!
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
+  - [🚀 Live Demo](#live-demo)
 - [👥 Authors](#authors)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -63,6 +64,10 @@ After you're finished please remove all the comments and instructions!
 > HTML
 >
 > CSS
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Demo](https://hellomicroverse.netlify.app/)
 
 <!-- AUTHORS -->
 
