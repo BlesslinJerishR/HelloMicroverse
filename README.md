@@ -76,7 +76,7 @@ After you're finished please remove all the comments and instructions!
 
 If you like this project leave a star.
 
-<!-- ACKNOWLEDGEMENTS -->
+<!-- ACKNOWLEDGEMENTS-->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
