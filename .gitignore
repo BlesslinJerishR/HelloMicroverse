@@ -1,2 +1,7 @@
 node_modules
+<<<<<<< HEAD
 env
+=======
+env
+test.md
+>>>>>>> 84b5224 (Hello Microverse)
