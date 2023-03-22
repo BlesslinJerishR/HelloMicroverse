@@ -4,8 +4,6 @@
 
 <a name="readme-top"></a>
 
-<!-- Opening Pull Request -->
-
 <!--
 HOW TO USE:
 This is an example of how you may give instructions on setting up your project locally.
@@ -55,9 +53,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [ Hello Microverse ] <a name="about-project"></a>
-
-> Hello Microverse Project from Module 1 of Microverse Full-stack development program.
+# 📖 Hello Microverse <a name="about-project"></a>
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -67,7 +63,7 @@ After you're finished please remove all the comments and instructions!
 >
 > CSS
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Live Demo [ Working ]<a name="live-demo"></a>
 
 - [Demo](https://hellomicroverse.netlify.app/)
 
@@ -75,7 +71,9 @@ After you're finished please remove all the comments and instructions!
 
 ## 👥 Author <a name="authors"></a>
 
-- GitHub: [@BlesslinJerishR](https://github.com/BlesslinJerishR)
+- GitHub : [@BlesslinJerishR](https://github.com/BlesslinJerishR)
+- Twitter : [@BlesslinJerishR](https://twitter.com/BlesslinJerishR)
+- LinkedIn : [@BlesslinJerishR](https://www.linkedin.com/in/blesslin-jerish-8b8bbb257/)
 
 <!-- SUPPORT -->
 
